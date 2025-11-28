@@ -50,7 +50,7 @@
                     color: white;
                     font-weight: 700;
                     font-size: 72px;
-                    text-shadow: 5px 5px 15px grey;
+                    
                   "
                 >
                   澳町海外代購
@@ -536,28 +536,28 @@ body {
   object-fit: cover;
 }
 .card-1 {
-  top: 20%;
-  left: 10%;
+  top: 10%;
+  left: 5%;
 }
 .card-2 {
-  top: 20%;
-  right: 15%;
+  top: 10%;
+  right: 5%;
 }
 .card-3 {
-  bottom: 35%;
-  left: 10%;
+  bottom: 15%;
+  left: 5%;
 }
 .card-4 {
-  bottom: 35%;
-  right: 15%;
+  bottom: 15%;
+  right: 5%;
 }
 .card-5 {
-  top: 40%;
-  left: 15%;
+  top: 30%;
+  left: 5%;
 }
 .card-6 {
-  top: 40%;
-  right: 15%;
+  top: 30%;
+  right: 5%;
 }
 /* the cirle image */
 .bgCircle {
